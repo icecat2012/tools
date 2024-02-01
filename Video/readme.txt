@@ -12,3 +12,9 @@ Cut Video by Time:
 speedVideo -f [video file path] -o [output dir] [start minute] [start second] [end minute] [end second]
 e.g., Cut a video clip from 1:30 to 2:00
 speedVideo -f [video file path] -o [output dir] 1 30 2 0
+
+Mute Video:
+1. Output a video clip
+muteVideo -f [video file path] -o [output dir]
+e.g., Mute a video
+speedVideo -f [video file path] -o [output dir]
