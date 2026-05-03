@@ -18,3 +18,8 @@ Mute Video:
 muteVideo -f [video file path] -o [output dir]
 e.g., Mute a video
 muteVideo -f [video file path] -o [output dir]
+
+Rotate Video:
+rotate [video file path] [90, 180, 270 degree]
+e.g., Rotate 180 degree of a video
+rotate [video file path] 180
